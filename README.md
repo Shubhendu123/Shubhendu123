@@ -11,7 +11,7 @@ Currently in stealth mode on next-generation agentic PM work — demonstrating b
 
 **[Counsel AI](https://github.com/Shubhendu123/Counsel-AI)** — Agentic RAG for legal analysis. Multi-agent retrieval + reasoning pipeline. Trust Console for auditability. Production-grade reliability patterns.
 
-**[Portfolio Site](https://shubhendu-portfolio-eight.vercel.app)** — PM case studies (Oracle, Fractal) +live AI demos. 
+**[Portfolio Site](https://shubhendu-portfolio-eight.vercel.app)** — PM case studies +live AI demos. 
 
 Banking client work: Cash forecasting (predictive ML), churn prediction (segmentation + intervention), dynamic pricing (markdown optimization), NLG narratives (automated insights).
 
