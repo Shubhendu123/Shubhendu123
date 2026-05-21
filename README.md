@@ -1,6 +1,6 @@
 Hi, I'm Shubhendu Vimal 👋
 
-Principal Product Manager | Agentic AI & Financial Analytics | Bengaluru
+Principal Product Manager | Agentic AI & Enterprise SaaS ERP | Bengaluru
 
 I ship AI products that work — not just demos. 11+ years shipping ML models, multi-agent agentic systems, and self-serve analytics for Fortune 500 banking clients and mid-market finance teams. Built products at Oracle NetSuite (78% ARR growth, $1.6M monetization opportunities identified) and Fractal Analytics (CPG revenue optimization platform).
 Currently in stealth mode on next-generation agentic PM work — demonstrating both execution rigor and deep technical AI fluency.
